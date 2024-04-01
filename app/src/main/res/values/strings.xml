@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="email_placeholder">Email Address</string>
+    <string name="password_placeholder">Password</string>
+    <string name="forget_password">Forgot Password?</string>
+    <string name="login_btn_cta">Login</string>
+    <string name="or_login_with">or login with</string>
+    <string name="register_text">"Don't have an account?"</string>
+    <string name="signup_text">Signup</string>
+    <string name="welcome">Welcome, Glad to see you!</string>
+</resources>

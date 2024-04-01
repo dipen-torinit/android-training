@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomEditTextStyle" parent="Widget.AppCompat.EditText">
+        <item name="android:background">@drawable/edit_text_background</item>
+
+        <item name="android:padding">8dp</item>
+    </style>
+
+    <!-- styles.xml -->
+    <style name="CustomButtonStyle" parent="Widget.AppCompat.Button.Colored">
+        <item name="android:background">@drawable/button_shape</item>
+        <item name="backgroundTint">@color/white</item>
+        <item name="android:textStyle">bold</item>
+
+    </style>
+</resources>
