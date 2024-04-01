@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PG-android_assignment</string>
+    <string name="login_page_heading_1">Welcome</string>
+    <string name="login_page_heading_2">Glad to see you!</string>
+    <string name="user_email_hint">Email Address</string>
+    <string name="user_password_hint">Password</string>
+    <string name="user_forgot_password">Forget Password?</string>
+    <string name="login_btm_text">Login</string>
+    <string name="custom_login_header">Or Login with</string>
+    <string name="my_image_description">Google Logo</string>
+    <string name="footer_question">Don\'t have an account?</string>
+    <string name="sign_up_now" >Sign Up Now</string>
+</resources>
